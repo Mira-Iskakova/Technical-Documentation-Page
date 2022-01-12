@@ -86,3 +86,9 @@ body {
   height: 100%;
   border-radius: 6px;
 }
+
+@media (max-width: 768px) {
+  #navbar header {
+    color: rgb(38, 35, 175);
+  }
+}
